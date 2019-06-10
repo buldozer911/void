@@ -1,15 +1,4 @@
 #!/bin/bash
-#
-##################################################################################################################
-# Written to be used on 64 bits computers
-# Author 	: 	Erik Dubois
-# Website 	: 	http://www.erikdubois.be
-##################################################################################################################
-##################################################################################################################
-#
-#   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
-#
-##################################################################################################################
 
 echo "This will install the latest kernel with long term support."
 echo "You can try this kernel if you have problems with the standard"
